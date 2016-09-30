@@ -1,5 +1,5 @@
 <?php
 
-echo "This is the home page!";
+echo "This is the home! ";
 
 ?>
