@@ -4,3 +4,8 @@ Add to stage : git add .
 Commit : git commit -m "Message"
 
 Compare commits : git diff 378693d 
+
+create a branch : git branch new_branch
+see all branches : git branch
+switch to a branch : git checkout new_branch
+
