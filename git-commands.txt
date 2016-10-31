@@ -9,3 +9,4 @@ create a branch : git branch new_branch
 see all branches : git branch
 switch to a branch : git checkout new_branch
 
+create a branch and switch at once : git checkout -b new_branch
