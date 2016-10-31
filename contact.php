@@ -1,4 +1,4 @@
 <?php
 
-echo "Contact us!!!!";
+echo "Contact us now!!!!";
 
