@@ -1,0 +1,6 @@
+Start git : git init
+check status : git status
+Add to stage : git add .
+Commit : git commit -m "Message"
+
+Compare commits : git diff 378693d 
