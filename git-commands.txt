@@ -16,3 +16,4 @@ rename branch : git branch -m old_name new_name
 Merge: git merge branch_name
 
 Save in stash : git stash save "Login form heading"
+See items in stash : git stash list
