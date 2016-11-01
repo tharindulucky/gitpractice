@@ -12,3 +12,7 @@ switch to a branch : git checkout new_branch
 create a branch and switch at once : git checkout -b new_branch
 delete branch : git branch -d new_branch
 rename branch : git branch -m old_name new_name
+
+Merge: git merge branch_name
+
+Save in stash : git stash save "Login form heading"
